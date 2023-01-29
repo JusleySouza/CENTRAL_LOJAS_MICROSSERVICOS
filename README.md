@@ -3,7 +3,7 @@
 Implementação da arquitetura de microsserviços para um sistema de gestão de lojas.
 
 #### Projeto original:
-Projeto desktop, desenvolvido com Swing, Java, MySQL.
+Projeto desktop, desenvolvido com Swing, Java, MySQL e JUnit.
 - [ProjetoCentralLojas](https://github.com/JusleySouza/Projeto_Central_Lojas)
 
 #### Implementação utilizando Microsserviços:
