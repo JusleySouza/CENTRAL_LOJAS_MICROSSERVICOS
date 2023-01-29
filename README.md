@@ -9,7 +9,7 @@ Projeto desktop, desenvolvido com Swing, Java, MySQL.
 #### Implementação utilizando Microsserviços:
 
 - [Serviço para gerenciamento de Funcionários](https://github.com/ArturStefan/Central_Stores_Employees)
-- 
+
 [![Build Status](https://app.travis-ci.com/ArturStefan/Central_Stores_Employees.svg?branch=master)](https://travis-ci.org/azu/travis-badge)
 
 
