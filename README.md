@@ -16,3 +16,6 @@ Projeto desktop, desenvolvido com Swing, Java, MySQL e JUnit.
 - [Serviço para gerenciamento de Clientes](https://github.com/JusleySouza/Central_Stores_Customers)
 
   [![Build Status](https://app.travis-ci.com/JusleySouza/Central_Stores_Customers.svg?branch=master)](https://travis-ci.org/azu/travis-badge)
+
+
+- [Serviço para gerenciamento de Produtos](https://github.com/JusleySouza/Central_Stores_Products)
